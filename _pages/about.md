@@ -17,6 +17,9 @@ Its all a little bit of unorganized at the moment but probably I will fix all th
 
 General Links
 ===
-Here, are collection of links and book recommedation for studing biology.
+Here, are collection of links and book recommedation related to biology.
 
-* Biochemistry- Lehninger Principles of Biochemistry – David L. Nelson & Michael M. Cox and Biochemistry – Jeremy M. Berg, John L. Tymoczko, and Lubert Stryer
+*  [Reddit Community for Biochemists](https://www.reddit.com/r/Biochemistry/)
+*  [Discord](https://discord.gg/7KftBJ2BPp)
+*  [Video](https://www.youtube.com/watch?v=ovJcsL7vyrk): "An interesting video of how mathematical expression can be abstract from an biological system".
+*  [MIT OCW](https://ocw.mit.edu/search/?d=Biology&d=Biological%20Engineering&q=Biology)
