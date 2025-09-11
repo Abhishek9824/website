@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Abhishek"
   pronouns         : "He/him" 
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #
   location         : "New Delhi, India"
-  employer         : "Delhi University"
+  employer         : #
   uri              : # URL
   email            : "abhishekbiswas2006@gmail.com" 
 
