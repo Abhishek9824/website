@@ -1,7 +1,8 @@
 ---
 title: "About Me"
 permalink: /aboutme/
-layout: page
+layout: archive
+author_profile: true
 ---
 
 tesrt
