@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Abhishek, an undergraduate student at Delhi University. I'm currently doing my graduation in life sciences with chemistry as a minor. I'm mostly interested in studying biochemistry. Although I'm a biology undergrad, I still find a lot of interest in studying biology using mathematical and simulation methods. Most of my projects are related to mathematical ecology and statistical approaches [you can find it here](https://github.com/Abhishek9824). Planning to continue my interest in this particular subject along with chemistry. 
+Hi, I'm Abhishek currently an undergraduate student in my final year majoring in Biology.  
 
-I enjoy watching movies and playing games (big fan of soul-born games!). I find reading and discussing Philosophy fun and love you know about knowing people's opinion on same topic.I also enjoy listening to music a lil bit...I don't have to certain taste in music but love to listen to lofi beats while doing my work. I do coding sometimes :/
-
-Get Started!
+About this website!
 ======
-Its all a little bit of unorganized at the moment but probably I will fix all the issue within this month. (Here) are my course notes which i took in my semester most of them are handwritten. Linking them here in case useful to others. Additionally, there are some courses which are not releated to my  college's coursework. They are typically my notes from seminars and few from online lectures.
+I have to attempted to create a professional/acedamic website. I shall put all my subjects related content here. The nagivation bars at the top are linked to appropriate pages.
+
+Most of the contents are from my college's coursework and few from seminars, webinars, etc. The content I have written has been mainly for my own references. However, I tried to manage and compile them into acessable pdf so it will easy to understand and acess. If you have any suggestions,  any reccomdenation or incase of any kind of error mail them to me (email is mentioned on the left nagivation bar). Feel free to explore :)
 
 General Links
 ===
