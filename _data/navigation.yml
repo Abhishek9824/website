@@ -12,7 +12,7 @@ main:
     url: /papers/
 
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
     
   - title: "Notes"
      url: /notes/    
@@ -25,7 +25,7 @@ main:
     #url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: "https://abhishek9824.github.io/website/"
     
   # - title: "CV"
   #   url: /cv-json/
