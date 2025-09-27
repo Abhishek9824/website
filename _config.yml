@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Abhishek"
-  pronouns         :  example: "He/Him"  
+  pronouns         :  "He/Him"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "New Delhi, India"
   #employer         : "Red Brick University"
