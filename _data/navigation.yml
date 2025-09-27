@@ -8,25 +8,26 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  main:
   - title: "Papers"
     url: /papers/
 
   - title: "Projects"
     url: /projects/
-    
-  - title: "Notes"
-     url: /notes/    
 
-  #title: "Teaching"
-    #url: /teaching/    
-    
-        
-  #title: "Blog"
-    #url: /year-archive/
-    
+  - title: "Notes"
+    url: /notes/
+
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  # - title: "Blog"
+  #   url: /year-archive/
+
   - title: "CV"
     url: "https://abhishek9824.github.io/website/"
-    
+
+ 
   # - title: "CV"
   #   url: /cv-json/
     
