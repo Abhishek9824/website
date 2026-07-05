@@ -1,5 +1,5 @@
 ---
-title: 1. Mathematical Modeling of Three-Species Ecosystem
+title: Mathematical Modeling of Three-Species Ecosystem
 collection: portfolio
 ---
 #### [Github](https://github.com/Abhishek9824/prey-predator-dynamics-simulation) | [PPT](https://abhishek9824.github.io/website/files/slides-mathecology.pdf)
