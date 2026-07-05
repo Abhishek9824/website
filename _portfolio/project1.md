@@ -1,13 +1,16 @@
 ---
-title: "Mathematical Modeling of a Three-Species Ecosystem"
-collection: projects
-permalink: /project/three-species-ecosystem
-excerpt: "Development of a nonlinear mathematical model describing Grass–Deer–Wolf interactions."
+title: "Mathematical Modeling of Three-Species Ecosystem"
 collection: portfolio
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
 
-Developed a deterministic mathematical model describing the interaction between grass, deer, and wolves.
-<a href="https://github.com/Abhishek9824/prey-predator-dynamics-simulation/blob/main/Report.pdf">Download Report</a> |
-<a href="https://github.com/Abhishek9824/website/blob/507bb55c8283a2062d68c61d5184edab7fda2ff0/file/Three_Species_Interaction___Prey_Predator_Dynamics%20(1).pdf">Download Presentation</a>
+1. Mathematical Modeling of Three-Species Ecosystem
+
+<p class="archive__item-links">
+  <a href="https://github.com/Abhishek9824/prey-predator-dynamics-simulation" target="_blank">
+    GitHub Repository
+  </a>
+  |
+  <a href="{{ 'https://abhishek9824.github.io/website/files/slides-mathecology.pdf' | relative_url }}" target="_blank">
+    Presentation
+  </a>
+</p>
