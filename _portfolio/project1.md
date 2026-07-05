@@ -2,15 +2,5 @@
 title: "Mathematical Modeling of Three-Species Ecosystem"
 collection: portfolio
 ---
-
-1. Mathematical Modeling of Three-Species Ecosystem
-
-<p class="archive__item-links">
-  <a href="https://github.com/Abhishek9824/prey-predator-dynamics-simulation" target="_blank">
-    GitHub Repository
-  </a>
-  |
-  <a href="{{ 'https://abhishek9824.github.io/website/files/slides-mathecology.pdf' | relative_url }}" target="_blank">
-    Presentation
-  </a>
-</p>
+#### [Github](https://github.com/Abhishek9824/prey-predator-dynamics-simulation) | [PPT](https://abhishek9824.github.io/website/files/slides-mathecology.pdf)
+Analyzed a mathematical model of a three-species ecological system using nonlinear differential equations. The project involves model derivation, equilibrium and stability analysis, numerical simulations, and visualization of population dynamics.
